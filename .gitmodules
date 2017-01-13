@@ -1,0 +1,6 @@
+[submodule "pjsua"]
+	path = pjsua
+	url = git@github.com:jchavanton/pjsua.git
+[submodule "webrtc"]
+	path = webrtc
+	url = git@github.com:jchavanton/webrtc.git
